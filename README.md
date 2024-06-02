@@ -3,9 +3,6 @@
 ###
 
 <h2 align="center">A Passionate Frontend Developer from Dhaka</h2>
-
-###
-
 <p align="center">🔭 I’m currently working on a Laravel Project<br><br>🌱 I’m currently learning Laravel Advanced Topics</p>
 
 ###
@@ -75,9 +72,3 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rayhan-bapari/rayhan-bapari/output/github-contribution-grid-snake.svg" />
-
-###
