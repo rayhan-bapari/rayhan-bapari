@@ -78,6 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rayhan-bapari/rayhan-bapari/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rayhan-bapari/rayhan-bapari/output/github-contribution-grid-snake.svg" />
 
 ###
