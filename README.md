@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A Passionate Frontend Developer from Dhaka</h2>
+<h2 align="center">A Passionate Laravel Developer from Dhaka</h2>
 <p align="center">🔭 I’m currently working on a Laravel Project<br><br>🌱 I’m currently learning Laravel Advanced Topics</p>
 
 ###
