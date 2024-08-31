@@ -30,15 +30,7 @@ I'm [Your Name], Fullstack developer from [Your Location], currently living in [
 - [New Post Title 2](https://link-to-your-blog.com)
 - [New Post Title 3](https://link-to-your-blog.com)
 
-## 🌍 Stockholm!
-
-🇸🇪 Welcome to Stockholm!  
-Currently, the weather is `14°C`, few clouds.  
-Today, the sun rises at `05:42` and sets at `19:53`.
-
 ## Where to find me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://linkedin.com/in/yourusername)
-[![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=ffffff&style=for-the-badge)](https://medium.com/@yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/rayhan-bapari)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://linkedin.com/in/md-rayhan-bapari)
