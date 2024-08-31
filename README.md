@@ -50,3 +50,4 @@ I'm Md.Rayhan Bapari, a Fullstack Laravel developer from Dhaka, Bangladesh.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/rayhan-bapari)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://linkedin.com/in/md-rayhan-bapari)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-0077B5?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://linkedin.com/in/md-rayhan-bapari)
