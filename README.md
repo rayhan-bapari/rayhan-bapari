@@ -1,11 +1,11 @@
 # 👋 Hey! Nice to see you.
 
 Welcome to my page!  
-I'm [Your Name], a Fullstack developer from [Your Location], currently living in [Current Location].
+I'm Md.Rayhan Bapari, a Fullstack Laravel developer from Dhaka, Bangladesh.
 
 ## Things I code with
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
