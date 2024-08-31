@@ -1,6 +1,6 @@
 # 👋 Hey! Nice to see you.
 
-Welcome to my page!  
+Welcome to my profile!  
 I'm Md.Rayhan Bapari, a Fullstack Laravel developer from Dhaka, Bangladesh.
 
 ## Things I code with
