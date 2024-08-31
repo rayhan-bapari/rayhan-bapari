@@ -6,7 +6,7 @@ I'm Md.Rayhan Bapari, a Fullstack Laravel developer from Dhaka, Bangladesh.
 ## Things I code with
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <code><img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  /></code>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
