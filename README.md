@@ -52,12 +52,6 @@ I'm Md.Rayhan Bapari, a Fullstack Laravel developer from Dhaka, Bangladesh.
 - [New Post Title 2](https://link-to-your-blog.com)
 - [New Post Title 3](https://link-to-your-blog.com)
 
-## My latest posts
-
-- [New Post Title 1](https://link-to-your-blog.com)
-- [New Post Title 2](https://link-to-your-blog.com)
-- [New Post Title 3](https://link-to-your-blog.com)
-
 ## Where to find me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/rayhan-bapari)
