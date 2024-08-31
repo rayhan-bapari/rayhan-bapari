@@ -46,12 +46,6 @@ I'm Md.Rayhan Bapari, a Fullstack Laravel developer from Dhaka, Bangladesh.
 | [Your Project 1](https://github.com/)      | ![Stars](https://img.shields.io/github/stars/username/repo?style=social)  | ![Forks](https://img.shields.io/github/forks/username/repo?style=social) | ![Issues](https://img.shields.io/github/issues/username/repo) | ![Pull Requests](https://img.shields.io/github/issues-pr/username/repo) |
 | [Your Project 2](https://github.com/)      | ![Stars](https://img.shields.io/github/stars/username/repo?style=social)  | ![Forks](https://img.shields.io/github/forks/username/repo?style=social) | ![Issues](https://img.shields.io/github/issues/username/repo) | ![Pull Requests](https://img.shields.io/github/issues-pr/username/repo) |
 
-## My latest posts
-
-- [New Post Title 1](https://link-to-your-blog.com)
-- [New Post Title 2](https://link-to-your-blog.com)
-- [New Post Title 3](https://link-to-your-blog.com)
-
 ## Where to find me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/rayhan-bapari)
