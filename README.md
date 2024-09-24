@@ -11,12 +11,11 @@ I'm Md.Rayhan Bapari, a Fullstack Laravel developer from Dhaka, Bangladesh.
   <code><img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=gulp" height="30" alt="gulp logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  /></code>
