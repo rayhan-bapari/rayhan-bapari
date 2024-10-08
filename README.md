@@ -14,8 +14,8 @@ I'm Md.Rayhan Bapari, a Fullstack Laravel developer from Dhaka, Bangladesh.
   <code><img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  /></code>
+<!--   <code><img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  /></code> -->
   <code><img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  /></code>
