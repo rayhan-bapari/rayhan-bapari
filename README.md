@@ -1,100 +1,118 @@
-<h1 align="center">Hi 👋, I'm Md. Rayhan Bapari</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Fullstack+Laravel+Developer;Web+Solution+Architect;API+Integration+Expert" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Rayhan Bapari
 
-<p align="center">🚀 Turning ideas into robust, scalable web solutions</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Laravel+Developer;Building+Digital+Experiences;API+%26+System+Architecture" alt="Typing Animation" />
 
----
+### 🚀 Crafting scalable web solutions with modern technologies
 
-### 💫 About Me
-- 🇧🇩 Based in Dhaka, passionate **Fullstack Laravel Developer**
-- 🔭 Currently building **next-gen fullstack applications**
-- 🌱 Diving deeper into **PHP**, **Laravel**, **Python**
-- 🧠 Strong believer in **clean code**, **maintainable architecture**, and **continuous learning**
-- 🤝 Open for **collaborations on meaningful tech products**
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🎯 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+```typescript
+const rayhan = {
+  location: "🇧🇩 Dhaka, Bangladesh",
+  role: "Full-Stack Laravel Developer",
+  focus: ["Clean Architecture", "API Design", "Performance Optimization"],
+  currentlyLearning: ["Advanced PHP Patterns", "Laravel 11", "Python AI/ML"],
+  philosophy: "Code is poetry, architecture is art",
+  collaboration: "Always open to meaningful projects"
+};
+```
 
 ---
 
-### 📈 GitHub Stats
+## ⚡ Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-bapari&show_icons=true&count_private=true&hide=contribs,prs&theme=tokyonight&border_radius=20" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan-bapari&theme=tokyonight&border_radius=20" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayhan-bapari&theme=discord&column=4&margin-w=15&margin-h=15" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
----
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 🚀 Highlighted Project
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">Notyfyre</h4>
-      <a href="https://github.com/rayhan-bapari/Notyfyre">
-        <img src="https://camo.githubusercontent.com/92d4fdac3f5a4a6d0b67fab02d00e5fa62af49e6bcc8df29d0c8964a0acb2e88/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3834373433312f73637265656e73686f74732f31363539343630392f746f6173742e676966" width="100%" />
-      </a>
-      <p align="center">
-        <a href="https://github.com/rayhan-bapari/Notyfyre"><img src="https://img.shields.io/badge/Code-View_Repository-2ea44f?style=for-the-badge&logo=github" /></a>
-        <a href="https://packagist.org/packages/rayhan-bapari/notyfyre"><img src="https://img.shields.io/badge/Demo-Live_Demo-blue?style=for-the-badge&logo=laravel" /></a>
-      </p>
-      <p align="center"><strong>Laravel, JavaScript, CSS</strong> — Stylish toast notification system with themes and animations.</p>
-      <p align="center">
-        <img src="https://img.shields.io/packagist/v/rayhan-bapari/notyfyre.svg?style=flat-square" />
-        <img src="https://img.shields.io/packagist/dt/rayhan-bapari/notyfyre.svg?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-### 📊 Contribution Graph
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/26e27706-6af6-48a8-8b0c-2081e22614bf" width="50%" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rayhan-bapari&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rayhan-bapari&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayhan-bapari&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=00D9FF&sideNums=00D9FF" alt="GitHub Streak"/>
+</div>
 
 ---
 
-### 📬 Let's Connect
+## 🏆 Featured Project
 
-<p align="center">
-  <a href="https://github.com/rayhan-bapari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/md-rayhan-bapari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.hackerrank.com/md_rayhan_bapari"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" /></a>
-  <a href="mailto:contact@rayhanbapari.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayhan-bapari&color=6C63FF&style=for-the-badge" />
-</p>
+### 🔔 Notyfyre
+*Elegant Toast Notification System for Laravel*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?style=for-the-badge" />
-</p>
+<a href="https://github.com/rayhan-bapari/Notyfyre">
+  <img src="https://camo.githubusercontent.com/92d4fdac3f5a4a6d0b67fab02d00e5fa62af49e6bcc8df29d0c8964a0acb2e88/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3834373433312f73637265656e73686f74732f31363539343630392f746f6173742e676966" width="400" alt="Notyfyre Demo"/>
+</a>
 
-<p align="center">⭐️ From <a href="https://github.com/rayhan-bapari">rayhan-bapari</a></p>
+[![Repository](https://img.shields.io/badge/🔗_Repository-1a1a1a?style=for-the-badge&logo=github)](https://github.com/rayhan-bapari/Notyfyre)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF2D20?style=for-the-badge&logo=laravel)](https://packagist.org/packages/rayhan-bapari/notyfyre)
+
+**Tech Stack:** Laravel • JavaScript • CSS • Animation
+
+![Version](https://img.shields.io/packagist/v/rayhan-bapari/notyfyre?style=flat-square&color=00D9FF)
+![Downloads](https://img.shields.io/packagist/dt/rayhan-bapari/notyfyre?style=flat-square&color=FF6B35)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhan-bapari&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35" width="100%"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayhan-bapari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rayhan-bapari)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/md_rayhan_bapari)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rayhanbapari.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=rayhan-bapari&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+*"The best way to predict the future is to invent it."* — Alan Kay
+
+⭐ **Star my repositories if you find them useful!**
+
+</div>
