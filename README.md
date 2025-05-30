@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rayhan Bapari
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Laravel+Developer;Building+Digital+Experiences;API+%26+System+Architecture" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&height=150&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Laravel+Developer;Building+Digital+Experiences;API+%26+System+Architecture" alt="Typing Animation" />
 
 
 ### 🚀 Crafting scalable web solutions with modern technologies
