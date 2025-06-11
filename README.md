@@ -20,7 +20,7 @@ const rayhan = {
   location: "🇧🇩 Dhaka, Bangladesh",
   role: "Full-Stack Laravel Developer",
   focus: ["Clean Architecture", "API Design", "Performance Optimization"],
-  currentlyLearning: ["Advanced PHP Patterns", "Laravel 11", "Python AI/ML"],
+  currentlyLearning: ["Advanced PHP Patterns", "Laravel 11", "Python(Learning)"],
   philosophy: "Code is poetry, architecture is art",
   collaboration: "Always open to meaningful projects"
 };
