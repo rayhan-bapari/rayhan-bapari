@@ -76,7 +76,7 @@ const rayhan = {
 *Elegant Toast Notification System for Laravel*
 
 <a href="https://github.com/rayhan-bapari/Notyfyre">
-  <img src="https://camo.githubusercontent.com/92d4fdac3f5a4a6d0b67fab02d00e5fa62af49e6bcc8df29d0c8964a0acb2e88/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3834373433312f73637265656e73686f74732f31363539343630392f746f6173742e676966" width="400" alt="Notyfyre Demo"/>
+  <img src="notyfyre.png" width="400" alt="Notyfyre Demo"/>
 </a>
 
 [![Repository](https://img.shields.io/badge/🔗_Repository-1a1a1a?style=for-the-badge&logo=github)](https://github.com/rayhan-bapari/Notyfyre)
