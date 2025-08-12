@@ -117,10 +117,6 @@ hobbies: ["Problem Solving", "Code Review", "Tech Research"]
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
 <br><strong>GitHub</strong>
 </td>
-<td align="center" width="25%">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
 </tr>
 </table>
 
