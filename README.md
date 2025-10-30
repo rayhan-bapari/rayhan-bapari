@@ -48,7 +48,6 @@ hobbies: ["Problem Solving", "Code Review", "Tech Research"]
 ## 🛠️ **Technology Arsenal**
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="25%">
@@ -68,25 +67,31 @@ hobbies: ["Problem Solving", "Code Review", "Tech Research"]
 <br><strong>Python</strong>
 </td>
 </tr>
+
 <tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><strong>CSS3</strong>
-</td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br><strong>JavaScript</strong>
 </td>
 <td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
 <br><strong>Vue.js</strong>
 </td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
 </tr>
+
 <tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
 <br><strong>TailwindCSS</strong>
@@ -99,12 +104,17 @@ hobbies: ["Problem Solving", "Code Review", "Tech Research"]
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
 <br><strong>Figma</strong>
 </td>
+</tr>
+
+<tr>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br><strong>Git</strong>
 </td>
-</tr>
-<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
 <br><strong>Firebase</strong>
@@ -113,13 +123,8 @@ hobbies: ["Problem Solving", "Code Review", "Tech Research"]
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
 <br><strong>VS Code</strong>
 </td>
-<td align="center" width="25%">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -164,6 +169,25 @@ hobbies: ["Problem Solving", "Code Review", "Tech Research"]
 </td>
 <td width="50%">
 
+### ⚡ **Vue Notyfyre**
+*Toast Notification Library for Vue.js*
+
+<img src="vue-notyfyre.png" width="100%" alt="Vue Notyfyre Demo" style="border-radius: 10px;"/>
+
+**Tech Stack:** Vue.js • TypeScript • CSS
+
+[![Repo](https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayhan-bapari/vue-notyfyre)
+[![NPM](https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/vue-notyfyre)
+
+<img src="https://img.shields.io/npm/v/vue-notyfyre?style=flat-square&color=ff6e96&label=Version" />
+<img src="https://img.shields.io/npm/dt/vue-notyfyre?style=flat-square&color=00f5ff&label=Downloads" />
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🚀 **More Projects Coming Soon**
 *Currently working on exciting new projects*
 
@@ -174,10 +198,6 @@ hobbies: ["Problem Solving", "Code Review", "Tech Research"]
 - bKash Payment Gateway for Laravel
 
 [![Explore](https://img.shields.io/badge/Explore_More-ff6e96?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayhan-bapari?tab=repositories)
-
-</td>
-</tr>
-</table>
 
 </div>
 
