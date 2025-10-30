@@ -177,7 +177,7 @@ hobbies: ["Problem Solving", "Code Review", "Tech Research"]
 **Tech Stack:** Vue.js • TypeScript • CSS
 
 [![Repo](https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayhan-bapari/vue-notyfyre)
-[![NPM](https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/vue-notyfyre)
+[![NPM](https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@rayhanbapari/vue-notyfyre)
 
 <img src="https://img.shields.io/npm/v/vue-notyfyre?style=flat-square&color=ff6e96&label=Version" />
 <img src="https://img.shields.io/npm/dt/vue-notyfyre?style=flat-square&color=00f5ff&label=Downloads" />
