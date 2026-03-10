@@ -139,14 +139,19 @@ class RayhanBapari extends Developer
     <td width="50%" valign="top">
       <h3 align="center">💳 bKash Gateway</h3>
       <div align="center">
-        <a href="#">
+        <a href="https://github.com/rayhan-bapari/bkash-payment">
           <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-          <img src="https://img.shields.io/badge/Status-Coming_Soon-yellow?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
         </a>
         <br><br>
         <p>Seamless bKash payment gateway integration for Laravel. Supports checkout, tokenized payments, and webhook handling.</p>
         <p>
-          <img src="https://img.shields.io/badge/🚧_In_Development-FFD700?style=for-the-badge&logoColor=black" height="25" />
+          <a href="https://github.com/rayhan-bapari/bkash-payment">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="25" />
+          </a>
+          <a href="https://packagist.org/packages/rayhan-bapari/bkash-payment">
+            <img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" height="25" />
+          </a>
         </p>
       </div>
     </td>
