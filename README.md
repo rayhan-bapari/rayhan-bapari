@@ -15,7 +15,7 @@ My philosophy: **Write code that's performant, readable, and built to last.** I 
 - 🚀 **Building**: SaaS products and production-grade Laravel applications  
 - 📚 **Learning**: Python, advanced Laravel patterns, and system design  
 - 🤝 **Contributing**: Open-source projects and developer tools  
-- 🎯 **Goals for 2025**: Launch SaaS products, master system design, 10+ open-source contributions
+- 🎯 **Goals for 2026**: Launch SaaS products, master system design, 10+ open-source contributions
 
 ---
 
@@ -33,9 +33,7 @@ My philosophy: **Write code that's performant, readable, and built to last.** I 
 ### Databases & Query Language
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
 </p>
 
 ### Frontend & UI
@@ -44,7 +42,6 @@ My philosophy: **Write code that's performant, readable, and built to last.** I 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
 
 ### Tools & Infrastructure
